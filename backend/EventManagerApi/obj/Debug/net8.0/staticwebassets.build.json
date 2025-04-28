@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q8mwm5ycy0gu6ANCbpjPB2moiKgX0ZTtBhAgVadf7uY=",
+  "Source": "EventManagerApi",
+  "BasePath": "_content/EventManagerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
